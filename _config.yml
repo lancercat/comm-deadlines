@@ -9,7 +9,7 @@ baseurl: "/comm-deadlines"
 twitter_username: 
 twitter_hashtag: 
 github_username: zhongyuanzhao
-github_repo: 
+github_repo: comm-deadlines
 
 markdown: kramdown
 ga_id: 
