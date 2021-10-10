@@ -8,7 +8,7 @@
 - name: General
   sub: G
 - name: Consumer Electronics
-  sub: RO
+  sub: CE
 - name: Vehicular Communications
   sub: V2X
 - name: Internet of Things
