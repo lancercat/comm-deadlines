@@ -1,18 +1,15 @@
 ---
 
 - title: IEEE GLobeCom
-  hindex: 203
-  year: 2022
-  id: globecom22
-  link: https://iclr.cc/
-  deadline: '2021-10-05 17:00:00'
-  abstract_deadline: '2021-09-28 17:00:00'
+  hindex: 63
+  year: 2021
+  id: globecom21
+  link: https://globecom2022.ieee-globecom.org/
+  deadline: '2021-05-28 17:00:00'
   timezone: UTC-7
-  date: April 25-29, 2022
-  place: Online
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2021. More info
-    <a href=''https://iclr.cc/Conferences/2022/CallForPapers''>here</a>.'
+  date: December 07-11, 2021
+  place: Madrid, Spain
+  sub: G
 
 - title: ICASSP
   hindex: 80
@@ -28,38 +25,37 @@
 - title: IEEE ICC
   hindex: 57
   year: 2022
-  id: aistats22
-  link: https://www.aistats.org/aistats2022/
-  deadline: '2021-10-15 11:59:00'
+  id: icc22
+  link: https://icc2022.ieee-icc.org/
+  deadline: '2021-10-11 11:59:00'
   timezone: UTC
-  date: March 30 - April 1, 2022
-  place: Valencia, Spain
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2021. More info <a href=''http://www.aistats.org/aistats2022/cfp.html''>here</a>.'
+  date: May 16 - 20, 2022
+  place: Seoul, South Korea
+  sub: G
+  note: '<b>NOTE</b>: Workshop paper deadline on Jan 20, 2022. More info <a href="https://icc2022.ieee-icc.org/authors/call-workshop-papers">here</a>.'
 
 - title: IEEE INFOCOM
   hindex: 70
   year: 2022
-  id: www22
-  link: https://www2022.thewebconf.org/
-  deadline: '2021-10-21 23:59:59'
-  abstract_deadline: '2021-10-14 23:59:59'
+  id: infocom22
+  link: https://infocom2022.ieee-infocom.org/
+  deadline: '2021-07-31 23:59:59'
+  abstract_deadline: '2021-07-24 23:59:59'
   timezone: UTC-12
-  date: April 25-29, 2022
-  place: Lyon, France
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
+  date: May 2-5, 2022
+  place: Online
+  sub: G
 
 - title: IEEE Milcom
   hindex: 157
-  year: 2022
-  id: acl22
-  link: https://2022.aclweb.org/
-  deadline: '2021-11-15 23:59:59'
+  year: 2021
+  id: milcom21
+  link: https://milcom2021.milcom.org/
+  deadline: '2021-08-15 23:59:59'
   timezone: UTC-12
-  date: May 22-27, 2022
-  place: Dublin, Ireland
-  sub: NLP
+  date: Nov 29- Dec 02, 2021
+  place: San Diego, California
+  sub: ADHOC
 
 - title: IEEE DySPAN
   hindex: 299
@@ -70,18 +66,19 @@
   timezone: America/Los_Angeles
   date: June 21-24, 2022
   place: New Orleans, Louisiana, USA
-  sub: CV
+  sub: DSA
 
 - title: ACM MobiCom
   hindex: 38
   year: 2022
   id: mobicom22w
   link: https://www.sigmobile.org/mobicom/2022/
-  deadline: '2022-03-18 23:59:59'
+  deadline: '2022-03-25 23:59:59'
+  abstract_deadline: '2022-03-18 23:59:59'
   timezone: PDT
   date: June 20-25, 2022
   place: Unknown
-  sub: NLP
+  sub: G
 
 - title: ACM MobiCom
   hindex: 38
@@ -89,6 +86,7 @@
   id: mobicom22s
   link: https://www.sigmobile.org/mobicom/2022/
   deadline: '2021-08-13 23:59:59'
+  abstract_deadline: '2021-08-20 23:59:59'
   timezone: PDT
   date: June 20-25, 2022
   place: Unknown
@@ -97,23 +95,36 @@
 - title: ACM MobiHoc
   hindex: 38
   year: 2022
-  id: lrec22
-  link: http://elra.info/en/lrec/lrec-2022/
-  deadline: '2022-02-25 23:59:59'
+  id: mobihoc22
+  link: https://www.sigmobile.org/mobihoc/2022/
+  deadline: '2022-03-04 23:59:59'
+  abstract_deadline: '2022-02-25 23:59:59'
   timezone: UTC
   date: Oct 17-22, 2022
   place: Seoul, South Korea
-  sub: NLP
+  sub: ADHOC
 
 - title: IEEE ICCC
   hindex: 105
-  year: 2022
-  id: ijcai22
-  link: https://ijcai-22.org/
-  deadline: '2022-01-14 23:59:59'
-  abstract_deadline: '2022-01-07 23:59:59'
+  year: 2021
+  id: iccc21
+  link: https://iccc2021.ieee-iccc.org/
+  deadline: '2021-05-07 23:59:59'
   timezone: UTC-12
-  date: TBD
-  place: Vienna, Austria
-  sub: ML
+  date: July 28-30
+  place: Xiamen, China
+  sub: G
+
+
+- title: ACM SIGCOMM  
+  hindex: 63
+  year: 2021
+  id: sigcomm21
+  link: https://conferences.sigcomm.org/sigcomm/2021/
+  deadline: '2021-01-27 23:59:59'
+  abstract_deadline: '2021-01-20 23:59:59'
+  timezone: UTC-12
+  date: August 23-27
+  place: Online
+  sub: NET
 

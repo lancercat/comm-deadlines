@@ -11,3 +11,17 @@
   sub: SP
 - name: Data Mining
   sub: DM
+- name: Dynamic Spectrum Access
+  sub: DSA
+- name: Ad hoc networks
+  sub: ADHOC
+- name: General
+  sub: G
+- name: Consumer Electronics
+  sub: RO
+- name: Vehicular Communications
+  sub: V2X
+- name: Internet of Things
+  sub: IoT
+- name: Communication networks and networked systems
+  sub: NET
