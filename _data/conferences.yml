@@ -60,7 +60,7 @@
 - title: IEEE DySPAN
   hindex: 299
   year: 2022
-  id: cvpr22
+  id: dyspan22
   link: http://cvpr2022.thecvf.com/
   deadline: '2021-11-16 23:59:59'
   timezone: America/Los_Angeles
@@ -90,7 +90,7 @@
   timezone: PDT
   date: June 20-25, 2022
   place: Unknown
-  sub: NLP
+  sub: G
 
 - title: ACM MobiHoc
   hindex: 38
