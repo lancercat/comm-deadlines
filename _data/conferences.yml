@@ -17,7 +17,7 @@
   id: icassp22
   link: https://2022.ieeeicassp.org/
   deadline: '2021-10-06 23:59:59'
-  timezone: UTC-12
+  timezone: UTC
   date: May 22-27, 2022
   place: Singapore
   sub: SP
@@ -41,7 +41,7 @@
   link: https://infocom2022.ieee-infocom.org/
   deadline: '2021-07-31 23:59:59'
   abstract_deadline: '2021-07-24 23:59:59'
-  timezone: UTC-12
+  timezone: UTC
   date: May 2-5, 2022
   place: Online
   sub: G
@@ -75,7 +75,7 @@
   link: https://www.sigmobile.org/mobicom/2022/
   deadline: '2022-03-25 23:59:59'
   abstract_deadline: '2022-03-18 23:59:59'
-  timezone: PDT
+  timezone: UTC
   date: June 20-25, 2022
   place: Unknown
   sub: G
@@ -87,7 +87,7 @@
   link: https://www.sigmobile.org/mobicom/2022/
   deadline: '2021-08-13 23:59:59'
   abstract_deadline: '2021-08-20 23:59:59'
-  timezone: PDT
+  timezone: UTC
   date: June 20-25, 2022
   place: Unknown
   sub: G
@@ -110,7 +110,7 @@
   id: iccc21
   link: https://iccc2021.ieee-iccc.org/
   deadline: '2021-05-07 23:59:59'
-  timezone: UTC-12
+  timezone: UTC
   date: July 28-30
   place: Xiamen, China
   sub: G
@@ -123,7 +123,7 @@
   link: https://conferences.sigcomm.org/sigcomm/2021/
   deadline: '2021-01-27 23:59:59'
   abstract_deadline: '2021-01-20 23:59:59'
-  timezone: UTC-12
+  timezone: UTC
   date: August 23-27
   place: Online
   sub: NET
