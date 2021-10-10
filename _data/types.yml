@@ -12,6 +12,6 @@
 - name: Vehicular Communications
   sub: V2X
 - name: Internet of Things
-  sub: IoT
+  sub: IOT
 - name: Communication networks and networked systems
   sub: NET
