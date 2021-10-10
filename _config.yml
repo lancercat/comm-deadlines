@@ -4,7 +4,7 @@ description: Countdowns to top wireless communications conference deadlines
 author: Zhongyuan Zhao
 
 domain: "zhongyuanzhao.com"
-baseurl: "comm-deadlines"
+baseurl: "comm-deadlines/"
 
 twitter_username: 
 twitter_hashtag: 
