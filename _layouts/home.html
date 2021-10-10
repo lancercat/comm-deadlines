@@ -243,7 +243,7 @@
         var url = new URL(window.location);
         var subs = url.searchParams.get('sub');
         if (subs == undefined) {
-           subs = store.get('{{ site.domain }}{{ site.baseurl }}');
+           subs = store.get('{{ site.domain }}');
         } else {
            subs = subs.toUpperCase().split(',');
         }
@@ -270,8 +270,8 @@
             $('#' + subs[i] + '-checkbox').prop('checked', true);
           }
         }
-        store.set('{{ site.domain }}{{ site.baseurl }}', subs);
-        window.history.pushState('', '', '/?sub=' + subs.join());
+        store.set('{{ site.domain }}', subs);
+        window.history.pushState('', '', '{{ site.baseurl }}/?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
@@ -294,8 +294,8 @@
             }
           }
           console.log(subs);
-          store.set('{{ site.domain }}{{ site.baseurl }}', subs);
-          window.history.pushState('', '', '/?sub=' + subs.join());
+          store.set('{{ site.domain }}', subs);
+          window.history.pushState('', '', '{{ site.baseurl }}/?sub=' + subs.join());
         });
 
         // Event handler on sub click
@@ -311,8 +311,8 @@
           $('.' + csub + '-conf').show();
           subs = [csub];
           console.log(subs);
-          store.set('{{ site.domain }}{{ site.baseurl }}', subs);
-          window.history.pushState('', '', '/?sub=' + subs.join());
+          store.set('{{ site.domain }}', subs);
+          window.history.pushState('', '', '{{ site.baseurl }}/?sub=' + subs.join());
         });
     });
     <!-- Google analytics -->
