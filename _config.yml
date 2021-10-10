@@ -1,17 +1,17 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
+title: Wireless Communications Conference Deadlines (In working) # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+description: Countdowns to top wireless communications conference deadlines
+author: Zhongyuan Zhao
 
-domain: "aideadlin.es"
-baseurl: ""
+domain: "zhongyuanzhao.com"
+baseurl: "https://zhongyuanzhao.com/comm-deadlines"
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+twitter_username: 
+twitter_hashtag: 
+github_username: zhongyuanzhao
+github_repo: 
 
 markdown: kramdown
-ga_id: UA-36274081-2
+ga_id: 
 
 include: ['_pages']
