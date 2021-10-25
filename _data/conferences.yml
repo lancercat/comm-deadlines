@@ -128,3 +128,14 @@
   place: Online
   sub: NET
 
+
+- title: IEEE WCNC
+  hindex: 105
+  year: 2022
+  id: wcnc22
+  link: https://wcnc2022.ieee-wcnc.org/
+  deadline: '2021-10-15 23:59:59'
+  timezone: UTC
+  date: April 10-13
+  place: Austin, TX
+  sub: G
