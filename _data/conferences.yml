@@ -27,7 +27,7 @@
   year: 2022
   id: icc22
   link: https://icc2022.ieee-icc.org/
-  deadline: '2021-10-11 11:59:00'
+  deadline: '2021-11-15 11:59:00'
   timezone: UTC
   date: May 16 - 20, 2022
   place: Seoul, South Korea
@@ -139,3 +139,16 @@
   date: April 10-13
   place: Austin, TX
   sub: G
+
+
+- title: IEEE ACSSC
+  hindex: 78
+  year: 2021
+  id: acssc2021
+  link: https://www.asilomarsscconf.org/
+  deadline: '2021-05-01 23:59:59'
+  timezone: UTC
+  date: Oct 31- Nov 03
+  place: online
+  sub: SP
+
