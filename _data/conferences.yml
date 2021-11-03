@@ -1,7 +1,7 @@
 ---
 
 - title: IEEE GLobeCom
-  hindex: 63
+  hindex: 57
   year: 2021
   id: globecom21
   link: https://globecom2022.ieee-globecom.org/
@@ -12,7 +12,7 @@
   sub: G
 
 - title: ICASSP
-  hindex: 80
+  hindex: 86
   year: 2022
   id: icassp22
   link: https://2022.ieeeicassp.org/
@@ -23,7 +23,7 @@
   sub: SP
 
 - title: IEEE ICC
-  hindex: 69
+  hindex: 67
   year: 2022
   id: icc22
   link: https://icc2022.ieee-icc.org/
@@ -35,7 +35,7 @@
   note: '<b>NOTE</b>: Workshop paper deadline on Jan 20, 2022. More info <a href="https://icc2022.ieee-icc.org/authors/call-workshop-papers">here</a>.'
 
 - title: IEEE INFOCOM
-  hindex: 70
+  hindex: 72
   year: 2022
   id: infocom22
   link: https://infocom2022.ieee-infocom.org/
@@ -47,7 +47,7 @@
   sub: G
 
 - title: IEEE Milcom
-  hindex: 157
+  hindex: 63
   year: 2021
   id: milcom21
   link: https://milcom2021.milcom.org/
@@ -58,7 +58,7 @@
   sub: ADHOC
 
 - title: IEEE DySPAN
-  hindex: 299
+  hindex: 8
   year: 2022
   id: dyspan22
   link: http://cvpr2022.thecvf.com/
@@ -117,7 +117,7 @@
 
 
 - title: ACM SIGCOMM  
-  hindex: 63
+  hindex: 65
   year: 2021
   id: sigcomm21
   link: https://conferences.sigcomm.org/sigcomm/2021/
@@ -130,7 +130,7 @@
 
 
 - title: IEEE WCNC
-  hindex: 105
+  hindex: 22
   year: 2022
   id: wcnc22
   link: https://wcnc2022.ieee-wcnc.org/
