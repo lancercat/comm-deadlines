@@ -106,13 +106,13 @@
 
 - title: IEEE ICCC
   hindex: 105
-  year: 2021
-  id: iccc21
-  link: https://iccc2021.ieee-iccc.org/
-  deadline: '2021-05-07 23:59:59'
-  timezone: UTC
-  date: July 28-30
-  place: Xiamen, China
+  year: 2022
+  id: iccc22
+  link: https://iccc2022.ieee-iccc.org/
+  deadline: '2022-05-10 23:59:59'
+  timezone: UTC+8
+  date: August 11-13
+  place: Foshan City, China
   sub: G
 
 
