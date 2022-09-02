@@ -14,25 +14,24 @@
 - title: ICASSP
   hindex: 86
   year: 2022
-  id: icassp22
-  link: https://2022.ieeeicassp.org/
-  deadline: '2021-10-06 23:59:59'
+  id: icassp23
+  link: https://2023.ieeeicassp.org/
+  deadline: '2022-10-19 23:59:59'
   timezone: UTC
-  date: May 22-27, 2022
-  place: Singapore
+  date: June 4-9, 2023
+  place: Rhodes Island, Greece
   sub: SP
 
 - title: IEEE ICC
   hindex: 67
-  year: 2022
-  id: icc22
-  link: https://icc2022.ieee-icc.org/
-  deadline: '2021-11-15 11:59:00'
+  year: 2023
+  id: icc23
+  link: https://icc2023.ieee-icc.org/
+  deadline: '2022-10-11 11:59:00'
   timezone: UTC
-  date: May 16 - 20, 2022
-  place: Seoul, South Korea
+  date: May 28 - June 1, 2023
+  place: Rome, Italy
   sub: G
-  note: '<b>NOTE</b>: Workshop paper deadline on Jan 20, 2022. More info <a href="https://icc2022.ieee-icc.org/authors/call-workshop-papers">here</a>.'
 
 - title: IEEE INFOCOM
   hindex: 72
@@ -48,13 +47,13 @@
 
 - title: IEEE Milcom
   hindex: 63
-  year: 2021
-  id: milcom21
-  link: https://milcom2021.milcom.org/
-  deadline: '2021-08-15 23:59:59'
+  year: 2022
+  id: milcom22
+  link: https://milcom2022.milcom.org/
+  deadline: '2022-07-5 23:59:59'
   timezone: UTC-12
-  date: Nov 29- Dec 02, 2021
-  place: San Diego, California
+  date: Nov 28- Dec 02, 2022
+  place: Rockville, Maryland
   sub: ADHOC
 
 - title: IEEE DySPAN
@@ -70,25 +69,25 @@
 
 - title: ACM MobiCom
   hindex: 38
-  year: 2022
-  id: mobicom22w
-  link: https://www.sigmobile.org/mobicom/2022/
-  deadline: '2022-03-25 23:59:59'
-  abstract_deadline: '2022-03-18 23:59:59'
+  year: 2023
+  id: mobicom23w
+  link: https://www.sigmobile.org/mobicom/2023/
+  deadline: '2022-03-17 23:59:59'
+  abstract_deadline: '2022-03-10 23:59:59'
   timezone: UTC
-  date: June 20-25, 2022
-  place: Unknown
+  date: Oct 1-31, 2023
+  place: Madrid, Spain
   sub: G
 
 - title: ACM MobiCom
   hindex: 38
-  year: 2022
-  id: mobicom22s
+  year: 2023
+  id: mobicom23s
   link: https://www.sigmobile.org/mobicom/2022/
-  deadline: '2021-08-13 23:59:59'
-  abstract_deadline: '2021-08-20 23:59:59'
+  deadline: '2022-08-19 23:59:59'
+  abstract_deadline: '2022-08-12 23:59:59'
   timezone: UTC
-  date: June 20-25, 2022
+  date: June 20-25, 2023
   place: Unknown
   sub: G
 
