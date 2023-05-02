@@ -2,13 +2,13 @@
 
 - title: IEEE GLobeCom
   hindex: 57
-  year: 2022
-  id: globecom22
-  link: https://globecom2022.ieee-globecom.org/
-  deadline: '2022-04-15 23:59:00'
+  year: 2023
+  id: globecom23
+  link: https://globecom2023.ieee-globecom.org/
+  deadline: '2023-05-06 23:59:00'
   timezone: EST
-  date: December 04-08, 2022
-  place: Rio de Janeiro, Brazil
+  date: December 04-08, 2023
+  place: Kuala Lumpur, Malaysia
   sub: G
 
 - title: ICASSP
@@ -47,13 +47,13 @@
 
 - title: IEEE Milcom
   hindex: 63
-  year: 2022
-  id: milcom22
+  year: 2023
+  id: milcom23
   link: https://milcom2022.milcom.org/
-  deadline: '2022-07-5 23:59:59'
+  deadline: '2022-05-22 23:59:59'
   timezone: UTC-12
-  date: Nov 28- Dec 02, 2022
-  place: Rockville, Maryland
+  date: Oct 30- Nov 03, 2023
+  place: Boston, Massachusetts
   sub: ADHOC
 
 - title: IEEE DySPAN
@@ -72,10 +72,10 @@
   year: 2023
   id: mobicom23w
   link: https://www.sigmobile.org/mobicom/2023/
-  deadline: '2022-03-17 23:59:59'
-  abstract_deadline: '2022-03-10 23:59:59'
+  deadline: '2023-03-17 23:59:59'
+  abstract_deadline: '2023-03-10 23:59:59'
   timezone: UTC
-  date: Oct 1-31, 2023
+  date: Oct 2-6, 2023
   place: Madrid, Spain
   sub: G
 
@@ -93,14 +93,14 @@
 
 - title: ACM MobiHoc
   hindex: 38
-  year: 2022
-  id: mobihoc22
+  year: 2023
+  id: mobihoc23
   link: https://www.sigmobile.org/mobihoc/2022/
-  deadline: '2022-03-04 23:59:59'
-  abstract_deadline: '2022-02-25 23:59:59'
+  deadline: '2023-03-10 23:59:59'
+  abstract_deadline: '2023-03-10 23:59:59'
   timezone: UTC
-  date: Oct 17-22, 2022
-  place: Seoul, South Korea
+  date: Oct 23-26, 2023
+  place: Washington DC, USA
   sub: ADHOC
 
 - title: IEEE ICCC
@@ -117,37 +117,37 @@
 
 - title: ACM SIGCOMM  
   hindex: 65
-  year: 2022
-  id: sigcomm22
-  link: https://conferences.sigcomm.org/sigcomm/2022/
-  deadline: '2022-02-02 23:59:59'
-  abstract_deadline: '2021-01-26 23:59:59'
+  year: 2023
+  id: sigcomm23
+  link: https://conferences.sigcomm.org/sigcomm/2023/
+  deadline: '2023-02-15 23:59:59'
+  abstract_deadline: '2023-02-08 23:59:59'
   timezone: UTC
-  date: August 22-26
-  place: Amsterdam, Netherlands
+  date: September 10-14
+  place: New York City, US
   sub: NET
 
 
 - title: IEEE WCNC
   hindex: 22
-  year: 2022
-  id: wcnc22
-  link: https://wcnc2022.ieee-wcnc.org/
-  deadline: '2021-10-15 23:59:59'
+  year: 2024
+  id: wcnc24
+  link: https://wcnc2024.ieee-wcnc.org/
+  deadline: '2023-09-11 23:59:59'
   timezone: UTC
-  date: April 10-13
-  place: Austin, TX
+  date: April 21-24
+  place: Dubai, United Arab Emirates
   sub: G
 
 
 - title: IEEE ACSSC
   hindex: 78
-  year: 2022
-  id: acssc2022
+  year: 2023
+  id: acssc2023
   link: https://www.asilomarsscconf.org/
-  deadline: '2022-04-29 23:59:59'
+  deadline: '2023-05-01 23:59:59'
   timezone: UTC
-  date: Oct 30- Nov 02
+  date: Oct 29- Nov 01
   place: Pacific Grove, California
   sub: SP
 
