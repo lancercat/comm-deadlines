@@ -30,7 +30,7 @@ To add or update a deadline:
 - [ccf-deadlines][11] by @ccfddl
 - [netdeadlines.com][12] by @albertgranalcoz
 - [ad-deadlines.com][13] by @daniel-bogdoll
-- DDL/Conf calender http://conferences.visionbib.com/Iris-Conferences.html
+- DDL/Conf calendar http://conferences.visionbib.com/Iris-Conferences.html
 ## License
 
 [MIT][1]
